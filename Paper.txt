@@ -1,5 +1,5 @@
-Author: Adam Talbot
-Title: Greatest thing ever
+Author: Adam Talbo and Emily Breeze
+Title: Greatest thing ever (obvs)
 
 Abstract: Awesome stuff.
 
@@ -8,4 +8,4 @@ Results:
 Discussion:
 Methods:
 References:
-Acknowledgements:
+Acknowledgements:Emily for her greatness.
